@@ -1,6 +1,6 @@
 nats:
   user: "user"
   password: "password"
-  ip_address: "ap_address"
+  ip_address: "ip_address"
   nats_port: "port"
 
